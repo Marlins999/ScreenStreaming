@@ -1,2 +1,2 @@
 # ScreenStreaming
-Screen Streaming
+Screen Streaming over socket using GDI
